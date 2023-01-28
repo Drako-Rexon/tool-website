@@ -1,0 +1,11 @@
+{
+  "name": "web-tools",
+  "version": "1.0.0",
+  "description": "This project is developing by collaboration of Drako Rexon and Manoj Kumar",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
